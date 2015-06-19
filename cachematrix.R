@@ -1,5 +1,4 @@
 ## This 'makeCacheMatrix' function creates a special "matrix" object that can cache its inverse. 
-
 ## 1.  set the value of the matrix
 ##2.  get the value of the matrix
 ##3.  set the value of the inverse of the matrix
